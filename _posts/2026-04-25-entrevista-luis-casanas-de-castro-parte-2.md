@@ -7,7 +7,7 @@ date: 2026-04-25
 last_modified_at: 2026-09-08
 interviewee: "Luis Casañas de Castro"
 permalink: /articulos/entrevista-luis-casanas-parte-2/
-image: /assets/img/cz-p10c-upgrades.jpg
+image: https://raw.githubusercontent.com/imperialdefensegroup/articulos2/main/assets/img/cz-p10c-upgrades.jpg
 ---
 <p style="margin: 15px 0;">
   <a href="https://imperialdefensegroup.github.io/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/"
@@ -46,7 +46,7 @@ Para mi la más económica entre modelos que llevan en servicio años, tales com
 La respuesta es similar, aunque me voy a mojar algo más. Yo tengo ganas de ver por fin una arma corta con aguja lanzada y Optic Reddit en la Benemérita. Me gustaría poder ver al GAR a la USECIC o simplemente a un guardia de seguridad ciudadana que le gusten las armas que entrene en su tiempo libre que no se limite a los ejercicios de tiro y PATIO con un red dot en su arma de dotación.
 Elegiría la más barata entre Glock 45 MOS o la CZ P10C OR, mis dos pistolas policiales favoritas y esa sería la CZ P10C OR.
 
-![CZ P10C upgrade]({{ "/assets/img/cz-p10c-upgrades.jpg" | relative_url }})
+![CZ P10C upgrade]({{ "https://raw.githubusercontent.com/imperialdefensegroup/articulos2/main/assets/img/cz-p10c-upgrades.jpg" | relative_url }})
 
 ## ¿Qué opinas de la nueva adquisición de Daniel Defense DDM4 para la Policía Nacional?
 La Policía Nacional está haciendo muy muy bien las cosas a nivel de concursos públicos y este es un ejemplo de ello. Para empezar a sustituir los G36, creo que es un acierto.
