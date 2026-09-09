@@ -1,4 +1,5 @@
 ---
+interview_dark: true
 layout: post
 title: "Luis Casañas de Castro — Consultor táctico: trayectoria, proyectos y entrevista"
 description: "Artículo SEO sobre Luis Casañas de Castro: experiencia, proyectos y entrevista íntegra sobre defensa y seguridad en España."
