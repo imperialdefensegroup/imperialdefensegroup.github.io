@@ -1,0 +1,31 @@
+title: "Imperial Defense Group — Artículos"
+description: "Blog de análisis táctico, defensa y equipamiento."
+lang: es
+timezone: Europe/Madrid
+
+# IMPORTANTE: estas dos líneas deben quedar exactamente así
+url: "https://imperialdefensegroup.github.io"
+baseurl: ""
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+logo: /assets/img/logo.png
+image: /assets/img/og.jpg
+
+author:
+  name: "Imperial Defense Group"
+  url: "https://imperialdefensegroup.github.io/articulos/"
+
+social:
+  name: "Imperial Defense Group"
+  links:
+    - "https://github.com/imperialdefensegroup"
+
+# Si verificas por meta en Search Console, pega aquí tu código:
+# google_site_verification: "google3969f57c69dd6c78.html"
