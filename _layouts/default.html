@@ -114,6 +114,38 @@
       border-radius: 6px;
     }
 
+
+    /* Estilo exclusivo de las entrevistas de Luis Casañas de Castro */
+    body.interview-dark {
+      background: #090b0d;
+      color: #f5f7fa;
+    }
+
+    body.interview-dark a {
+      color: #f5c451;
+    }
+
+    body.interview-dark a[style*="color: #fff"] {
+      color: #fff !important;
+    }
+
+    body.interview-dark hr {
+      border-color: #3b4148;
+    }
+
+    body.interview-dark table {
+      color: #f5f7fa;
+    }
+
+    body.interview-dark th,
+    body.interview-dark td {
+      border-color: #3b4148;
+    }
+
+    body.interview-dark th {
+      background: #171b20;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
@@ -166,7 +198,7 @@
   </style>
 </head>
 
-<body>
+<body class="{% if page.interview_dark %}interview-dark{% endif %}">
 
 <header>
   <p class="site-title">
