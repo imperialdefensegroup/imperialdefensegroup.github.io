@@ -1,4 +1,5 @@
 ---
+interview_dark: true
 layout: post
 title: "Luis Casañas de Castro: entrevista — Parte 2"
 description: "Segunda parte de la entrevista a Luis Casañas de Castro sobre la Echelon 4.0, CZ P10C, CZ Bren 3 y el equipamiento de Policía Nacional y Guardia Civil."
