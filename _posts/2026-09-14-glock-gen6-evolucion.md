@@ -21,7 +21,7 @@ Armazón de polímero, aguja lanzada, gran capacidad, pocos componentes, tres se
 
 Lo interesante es que Glock ha seguido desde entonces una filosofía extremadamente conservadora: **evolucionar sin alterar aquello que funciona**.
 
-La Glock Gen6, presentada oficialmente el **6 de diciembre de 2025** y comercializada desde el **20 de enero de 2026**, mantiene esa filosofía, pero lleva la evolución bastante más lejos que las generaciones inmediatamente anteriores. [GLOCK](https://us.glock.com/en/press-release/news-page/gen6-announcement)
+La Glock Gen6, presentada oficialmente el **6 de diciembre de 2025** y comercializada desde el **20 de enero de 2026**, mantiene esa filosofía, pero lleva la evolución bastante más lejos que las generaciones inmediatamente anteriores.
 
 ## De la Glock original a la Gen6
 
@@ -31,11 +31,11 @@ La **primera generación**, producida desde comienzos de los años ochenta, esta
 
 La **Gen2**, aparecida a finales de los años ochenta, introdujo principalmente modificaciones en la textura y geometría del armazón.
 
-La evolución se hizo mucho más visible con la **Gen3 de 1998**, que añadió el raíl para accesorios, apoyos para el pulgar y los característicos finger grooves. La posibilidad de instalar linternas y módulos láser respondía directamente a la progresiva integración de accesorios en las armas policiales y militares. [GLOCK Perfection](https://eu.glock.com/en/Newsletter/Evolution-of-GLOCK17)
+La evolución se hizo mucho más visible con la **Gen3 de 1998**, que añadió el raíl para accesorios, apoyos para el pulgar y los característicos finger grooves. La posibilidad de instalar linternas y módulos láser respondía directamente a la progresiva integración de accesorios en las armas policiales y militares.
 
-La **Gen4**, lanzada en 2009, dio un paso importante hacia la adaptación de la pistola al usuario. Incorporó lomos intercambiables, una textura RTF más agresiva, retenida del cargador ampliada y reversible y un sistema de doble muelle recuperador. [GLOCK Perfection](https://eu.glock.com/en/technology/gen4)
+La **Gen4**, lanzada en 2009, dio un paso importante hacia la adaptación de la pistola al usuario. Incorporó lomos intercambiables, una textura RTF más agresiva, retenida del cargador ampliada y reversible y un sistema de doble muelle recuperador.
 
-Finalmente, la **Gen5 apareció en 2017** a partir de desarrollos relacionados con la denominada Glock M destinada al FBI. Glock afirmó entonces haber introducido más de veinte modificaciones respecto a la Gen4. Desaparecieron los finger grooves, apareció el cañón GLOCK Marksman Barrel, el acabado nDLC, la retenida de corredera ambidiestra y un brocal de cargador ensanchado. [GLOCK](https://us.glock.com/en/press-release/news-page/glock-introduces-the-long-awaited-5th-generation-of-perfection)
+Finalmente, la **Gen5 apareció en 2017** a partir de desarrollos relacionados con la denominada Glock M destinada al FBI. Glock afirmó entonces haber introducido más de veinte modificaciones respecto a la Gen4. Desaparecieron los finger grooves, apareció el cañón GLOCK Marksman Barrel, el acabado nDLC, la retenida de corredera ambidiestra y un brocal de cargador ensanchado.
 
 La secuencia histórica puede resumirse así:
 
@@ -62,13 +62,13 @@ En la Gen6 Glock ha atacado directamente esta cuestión.
 
 El nuevo armazón introduce un **palm swell** que modifica el apoyo de la palma de la mano, un **beavertail aumentado**, nuevas superficies de apoyo para el pulgar y un **undercut más pronunciado bajo el guardamonte**.
 
-El objetivo es permitir que la mano quede situada más arriba y proporcionar un contacto más natural entre el arma y el tirador. Glock afirma que para desarrollar esta geometría estudió manos de diferentes tamaños y formas. [GLOCK Perfection](https://eu.glock.com/en/Technology/Gen6)
+El objetivo es permitir que la mano quede situada más arriba y proporcionar un contacto más natural entre el arma y el tirador. Glock afirma que para desarrollar esta geometría estudió manos de diferentes tamaños y formas.
 
 No es únicamente una modificación estética.
 
 Una posición más elevada de la mano respecto al eje del cañón mejora potencialmente el control durante las secuencias rápidas de disparo y facilita que el arma vuelva a alinearse después del retroceso.
 
-Las primeras evaluaciones independientes han destacado precisamente esta característica como una de las diferencias más perceptibles respecto a la Gen5. [USCCA](https://www.usconcealedcarry.com/blog/glock-generation-6-review/)
+Las primeras evaluaciones independientes han destacado precisamente esta característica como una de las diferencias más perceptibles respecto a la Gen5.
 
 ### RTF6: más superficie de contacto
 
@@ -76,7 +76,7 @@ También cambia considerablemente la textura.
 
 La nueva **RTF6** combina dos tipos de texturizado y amplía su presencia hacia zonas que anteriormente apenas disponían de tratamiento, incluidos los apoyos laterales para el pulgar.
 
-Glock parece haber buscado un compromiso entre adherencia y comodidad: suficiente agresividad para mantener el control con manos húmedas o utilizando guantes, sin convertir la empuñadura en una superficie excesivamente abrasiva. [GLOCK Perfection](https://eu.glock.com/en/Technology/Gen6)
+Glock parece haber buscado un compromiso entre adherencia y comodidad: suficiente agresividad para mantener el control con manos húmedas o utilizando guantes, sin convertir la empuñadura en una superficie excesivamente abrasiva.
 
 Las estrías de la corredera también se han rediseñado. Ahora presentan una geometría más profunda y angulada para aumentar la superficie de contacto durante la manipulación.
 
@@ -92,9 +92,9 @@ Sin embargo, conviene hacer una distinción importante.
 
 La arquitectura Safe Action continúa siendo fundamentalmente la misma y Glock no presenta la Gen6 como una pistola con un disparador radicalmente más ligero.
 
-El cambio está principalmente en la **geometría del dedo sobre el disparador y en la reducción de la distancia necesaria para alcanzarlo**. Esto resulta especialmente interesante para usuarios con manos pequeñas o medianas. [GLOCK](https://us.glock.com/en/press-release/news-page/gen6-announcement)
+El cambio está principalmente en la **geometría del dedo sobre el disparador y en la reducción de la distancia necesaria para alcanzarlo**. Esto resulta especialmente interesante para usuarios con manos pequeñas o medianas.
 
-Algunas evaluaciones independientes han medido pesos similares a los de la generación anterior y han señalado que la mejora se percibe más en el control y en la posición del dedo que en una reducción significativa del peso del disparador. [USCCA](https://www.usconcealedcarry.com/blog/glock-generation-6-review/)
+Algunas evaluaciones independientes han medido pesos similares a los de la generación anterior y han señalado que la mejora se percibe más en el control y en la posición del dedo que en una reducción significativa del peso del disparador.
 
 Es posiblemente la mejor manera de definir la filosofía Gen6: **Glock no intenta convertir la pistola en algo diferente; intenta que el mismo sistema sea más fácil de utilizar.**
 
@@ -110,7 +110,7 @@ El sistema utilizaba una placa intermedia que aumentaba la altura de instalació
 
 La Gen6 introduce un nuevo **Optic Ready System — ORS**.
 
-Las Glock Gen6 estándar incluyen **tres placas diferentes**, compatibles con algunas de las familias de huellas más utilizadas del mercado, incluyendo configuraciones para Trijicon RMR, determinados Holosun, Leupold DeltaPoint Pro, Vortex Defender y EOTech EFLX. [GLOCK](https://us.glock.com/en/about/technology/optic-mounting)
+Las Glock Gen6 estándar incluyen **tres placas diferentes**, compatibles con algunas de las familias de huellas más utilizadas del mercado, incluyendo configuraciones para Trijicon RMR, determinados Holosun, Leupold DeltaPoint Pro, Vortex Defender y EOTech EFLX.
 
 La diferencia fundamental es que Glock ha diseñado el sistema para que los tornillos del visor se anclen directamente a la corredera mientras la placa realiza la función de interfaz entre ambas geometrías.
 
@@ -120,7 +120,7 @@ Esto permite reducir el conjunto y modificar el posicionamiento del visor.
 
 Aquí conviene separar la información oficial de las primeras experiencias del mercado.
 
-Glock afirma que el sistema ha sido diseñado para proporcionar adaptabilidad, resistencia y fiabilidad a largo plazo. Sin embargo, durante los primeros meses de comercialización algunos evaluadores independientes expresaron reservas sobre las placas de polímero originales y comenzaron a aparecer rápidamente placas metálicas aftermarket. [GLOCK](https://us.glock.com/en/about/technology/optic-mounting)
+Glock afirma que el sistema ha sido diseñado para proporcionar adaptabilidad, resistencia y fiabilidad a largo plazo. Sin embargo, durante los primeros meses de comercialización algunos evaluadores independientes expresaron reservas sobre las placas de polímero originales y comenzaron a aparecer rápidamente placas metálicas aftermarket.
 
 A septiembre de 2026 **no considero que exista suficiente evidencia para afirmar que el ORS presente un problema generalizado de fiabilidad**, pero sí es un aspecto que merece seguimiento en armas destinadas a un uso policial o militar intensivo.
 
@@ -139,7 +139,7 @@ Actualmente Glock ofrece versiones Gen6 COA de la:
 - G17
 - G19
 - G45
-- G49 [GLOCK Perfection](https://eu.glock.com/en/Technology/glock-aimpoint-combo)
+- G49
 
 Para usuarios profesionales, la existencia simultánea de ORS y A-CUT resulta especialmente significativa: **Glock ya trata la óptica como parte estructural de la plataforma y no simplemente como un accesorio añadido posteriormente.**
 
@@ -151,9 +151,9 @@ Internamente las diferencias son mayores de lo que inicialmente podría parecer.
 
 El nuevo sistema óptico ha obligado a reorganizar determinados componentes dentro de la corredera. Glock utiliza un conjunto extractor rediseñado, y también existen diferencias en elementos como la aguja percutora, alojamiento del mecanismo de disparo y geometría de determinados componentes.
 
-La propia documentación técnica de Glock identifica un nuevo conjunto formado por extractor, *extractor frame*, *pressure piece* y muelle. [GLOCK Perfection](https://eu.glock.com/-/media/Global/EU/GLOCK-GmbH-2019/ContactandSupport/Download-Area/51959_Instructions-for-use_Relaunch_Standard_Gen6_14102025-EN-low.ashx)
+La propia documentación técnica de Glock identifica un nuevo conjunto formado por extractor, *extractor frame*, *pressure piece* y muelle.
 
-La Gen6 también regresa en los modelos 9 mm a un **muelle recuperador cautivo sencillo**, abandonando la configuración doble que caracterizó a las Gen4 y Gen5. Varias inspecciones técnicas de las primeras unidades han confirmado este cambio. [GlockCollectorsAssociation](https://glockcollectorsassociation.org/blogs/glock-news/glock-drops-new-gen6-pistols)
+La Gen6 también regresa en los modelos 9 mm a un **muelle recuperador cautivo sencillo**, abandonando la configuración doble que caracterizó a las Gen4 y Gen5. Varias inspecciones técnicas de las primeras unidades han confirmado este cambio.
 
 No significa, sin embargo, que Glock haya abandonado toda compatibilidad con generaciones anteriores.
 
@@ -169,11 +169,11 @@ En su presentación de diciembre de 2025 Glock anunció inicialmente tres modelo
 
 **G19 Gen6**, como modelo compacto.
 
-**G45 Gen6**, combinando corredera compacta y empuñadura full-size. [GLOCK](https://us.glock.com/en/press-release/news-page/gen6-announcement)
+**G45 Gen6**, combinando corredera compacta y empuñadura full-size.
 
-Posteriormente se incorporó al catálogo europeo la **G49 Gen6**, que invierte el concepto de la G45: utiliza una corredera y cañón largos con el armazón compacto correspondiente a la G19. [GLOCK Perfection](https://eu.glock.com/en/Products/Pistols/G49-Gen6)
+Posteriormente se incorporó al catálogo europeo la **G49 Gen6**, que invierte el concepto de la G45: utiliza una corredera y cañón largos con el armazón compacto correspondiente a la G19.
 
-A septiembre de 2026, Glock Europa muestra oficialmente las cuatro plataformas —G17, G19, G45 y G49— tanto en configuración Optic Ready como, dependiendo del modelo y mercado, acompañadas de las correspondientes versiones COA. [GLOCK Perfection](https://eu.glock.com/en/World-of-Glock/Calibers)
+A septiembre de 2026, Glock Europa muestra oficialmente las cuatro plataformas —G17, G19, G45 y G49— tanto en configuración Optic Ready como, dependiendo del modelo y mercado, acompañadas de las correspondientes versiones COA.
 
 La elección de estas cuatro configuraciones tampoco parece casual.
 
@@ -183,7 +183,7 @@ Con dos longitudes fundamentales de armazón y dos longitudes de corredera Glock
 
 La llegada de la Gen6 coincide además con una reorganización importante del catálogo Glock.
 
-Durante 2026 la compañía comenzó a retirar determinadas referencias Gen4 y Gen5, incluidos modelos tan relevantes como G17 Gen5 MOS, G19 Gen5 MOS, G45 MOS o G47 MOS, aunque mantiene soporte para las generaciones anteriores. [GLOCK Perfection](https://eu.glock.com/en/News/Portfolio-Update-2026)
+Durante 2026 la compañía comenzó a retirar determinadas referencias Gen4 y Gen5, incluidos modelos tan relevantes como G17 Gen5 MOS, G19 Gen5 MOS, G45 MOS o G47 MOS, aunque mantiene soporte para las generaciones anteriores.
 
 Por tanto, la Gen6 debe interpretarse como algo más que una actualización periódica.
 
