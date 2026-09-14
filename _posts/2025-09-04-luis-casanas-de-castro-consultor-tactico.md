@@ -25,7 +25,7 @@ Su carrera comenzó en **Saborit International S.L.**, donde trabajó más de cu
 - **AXON**: gestión clave para la adopción en España del **TASER 7** y las cámaras **AXON Body 3** por la Guardia Civil, Policía Municipal de Madrid y numerosos cuerpos locales.
 - **First Spear**: principal fabricante de plate carrier, espcializado en ambientes marítimos.
 
-![Chaleco antibalas SAFARILAND con corte láser y escudo del CNP]({{ "/assets/img/chaleco.jpg" | relative_url }})          ![Agente portando chaleco de SAFARILAND oficial]({{ "/assets/img/images.jpg" | relative_url }})
+<img src="{{ "/assets/img/chaleco-cnp-2026.jpg" | relative_url }}" alt="Chaleco antibalas SAFARILAND con corte láser y escudo del CNP" width="240" height="240">          ![Agente portando chaleco de SAFARILAND oficial]({{ "/assets/img/images.jpg" | relative_url }})
 ## Colaboración con FFCCSE y Fuerzas Armadas
 
 Casañas no se ha limitado a las Fuerzas y Cuerpos de Seguridad, también ha asesorado a las **Fuerzas Armadas**, aportando soluciones de élite en:
