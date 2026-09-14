@@ -27,7 +27,7 @@ description: "Análisis sobre defensa, seguridad, equipamiento táctico y materi
   }
 
   body > header .site-title {
-    color: #fff;
+    color: #f04d57;
     letter-spacing: .04em;
     text-transform: uppercase;
   }
