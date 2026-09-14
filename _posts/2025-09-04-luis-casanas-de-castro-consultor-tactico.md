@@ -7,7 +7,7 @@ date: 2025-09-04
 permalink: /articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/
 lang: es
 tags: [Luis Casañas de Castro, consultoría táctica, material policial, material militar, Product Manager, seguridad]
-image: /assets/img/chaleco.jpg
+image: /assets/img/chaleco-cnp-2026.jpg
 author: "Imperial Defense Group"
 ---
 
