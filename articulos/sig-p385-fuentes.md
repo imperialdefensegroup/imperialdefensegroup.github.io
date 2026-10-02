@@ -11,7 +11,7 @@ interview_dark: true
 
 Investigación revisada el **2 de octubre de 2026**. [Volver al artículo](/articulos/sig-p385/).
 
-Se han seleccionado doce documentos principales. Cinco son fichas distintas del fabricante, necesarias para contrastar cada variante; no son cinco pruebas independientes. La nota de SIG y su copia en PR Newswire cuentan como una única fuente. Gun Digest reproduce el texto de RECOIL y no se cuenta como investigación adicional.
+Se han seleccionado once documentos principales. Cinco son fichas distintas del fabricante, necesarias para contrastar cada variante; no son cinco pruebas independientes. La nota de SIG y su copia en PR Newswire cuentan como una única fuente. Gun Digest reproduce el texto de RECOIL y no se cuenta como investigación adicional.
 
 Se leyó el cuerpo editorial de los artículos seleccionados y se revisaron las descripciones y tablas de las fichas oficiales. No se realizó una prueba física del arma. Las páginas dinámicas pueden cambiar después de la consulta.
 
@@ -27,8 +27,7 @@ Se leyó el cuerpo editorial de los artículos seleccionados y se revisaron las 
 | [[FIRST LOOK] SIG SAUER P385: The Next SIG Era](https://www.recoilweb.com/first-look-sig-sauer-p385-the-next-sig-era-193495.html) | David Lane; fotos Steven Kuo / RECOIL | 23/09/2026 | Cobertura presencial y configuraciones | Primer contacto; publica 4″ en MACH3D; interpretación de relevo P320 no adoptada como hecho |
 | [Meet the New Modular, Modern SIG Sauer P385](https://www.guns.com/news/2026/09/24/meet-new-sig-sauer-p385) | Alexander Reville / Guns.com | 24/09/2026 según URL; no visible en el cuerpo recuperado | Examen y experiencia propios, detalles de mandos | Evento de marca; sin ensayo prolongado |
 | [SIG Sauer P385: New FCU, Recoil System, MagStrap Grip and Five Models](https://gunsamerica.com/digest/sig-p385-review-new-modular-9mm/) | True Pearce / GunsAmerica | 27/09/2026 | Tiro propio y delimitación explícita del alcance | Armas y munición de SIG; sin prueba de vida útil |
-| [Nueva pistola SIG Sauer P385, ni P320 ni P365: qué tiene de nuevo y qué mejoras ofrece](https://tirotactico.net/2026/09/25/58435/) | Jorge Tierno Rey / El Blog de Tiro Táctico | 25/09/2026 | Análisis crítico en español y discrepancias técnicas | Declara no haber examinado la P385 |
-| [New SIG SAUER P385 9mm pistol unveiled at SIG NEXT](https://www.all4shooters.com/en/shooting/pistols/sig-sauer-p385-new-striker-fired-pistol-9-luger/) | Giorgio Brancaglion / all4shooters | 28/09/2026 | Cobertura europea y precio atribuido a Carry | Sin prueba propia descrita; precio diferente del registrado por EBdT2 |
+| [New SIG SAUER P385 9mm pistol unveiled at SIG NEXT](https://www.all4shooters.com/en/shooting/pistols/sig-sauer-p385-new-striker-fired-pistol-9-luger/) | Giorgio Brancaglion / all4shooters | 28/09/2026 | Cobertura europea y precio atribuido a Carry | Sin prueba propia descrita; precio no contrastado con una tarifa oficial completa |
 
 ## Documentos complementarios
 
@@ -58,3 +57,4 @@ La imagen es una infografía editorial original; no reproduce fotografías, logo
 - Adopciones policiales o militares documentadas: no localizadas.
 
 La falta de una fuente localizada no demuestra que no exista información adicional. El registro describe lo que se pudo verificar para esta publicación.
+
