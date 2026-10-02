@@ -374,7 +374,7 @@ description: "Análisis sobre defensa, seguridad, equipamiento táctico y materi
         <a class="article-card-image" href="{{ post.url | relative_url }}" aria-label="Leer {{ post.title }}">
           {% assign card_image = post.thumbnail | default: post.image %}
           {% if card_image %}
-          <img src="{{ card_image | relative_url }}" alt="" loading="lazy">
+          <img src="{{ card_image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy">
           {% endif %}
         </a>
         <div class="article-card-body">
