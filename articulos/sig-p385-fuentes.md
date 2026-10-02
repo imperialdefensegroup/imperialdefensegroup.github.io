@@ -44,7 +44,7 @@ Los datos dimensionales se publican cuando la referencia está identificada y no
 
 Las experiencias de tiro en SIG NEXT se distinguen de pruebas con armas de producción evaluadas fuera del evento. No se concluye fiabilidad a largo plazo.
 
-La imagen es una infografía editorial original; no reproduce fotografías, logotipos ni una silueta técnica del arma.
+La fotografía ha sido facilitada y autorizada para publicación por el editor, con crédito a Safariland.
 
 ## Pendientes relevantes
 
