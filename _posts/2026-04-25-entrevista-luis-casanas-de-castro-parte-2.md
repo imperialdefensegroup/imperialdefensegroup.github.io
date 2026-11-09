@@ -21,7 +21,7 @@ En esta segunda parte de la entrevista, **Luis Casañas de Castro** analiza la e
 
 Entrevista publicada por **Imperial Defense Group** el 25 de abril de 2026. Presentación y enlaces actualizados el 8 de septiembre de 2026.
 
-Puedes conocer su [trayectoria profesional y leer la primera parte de la entrevista]({{ "/2025/09/04/luis-casanas-de-castro-consultor-tactico/" | relative_url }}).
+Puedes conocer su [trayectoria profesional y leer la primera parte de la entrevista]({{ "/articulos/2025/09/04/luis-casanas-de-castro-consultor-tactico/" | relative_url }}).
 
 ## ¿Cómo ves la elección de la nueva arma corta por parte de la Policía Nacional?
 En los tiempos actuales con el revuelo que está generando la nueva elección de arma corta en la Policía Nacional y la última adquisición de arma corta en la Guardia Civil, cualquier respuesta que se dé va a ser polémica….
